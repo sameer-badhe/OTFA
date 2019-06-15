@@ -1,2 +1,2 @@
-# OTFA
-This is repository for OTFA UI - ReactJs Development
+# React-Starter
+This is repository for - ReactJs Development
